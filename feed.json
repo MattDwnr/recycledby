@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Recycled By",
     "description": "",
-    "home_page_url": "https://mattdwnr.github.io/recycledby",
-    "feed_url": "https://mattdwnr.github.io/recycledby/feed.json",
+    "home_page_url": "http://recycledby.org",
+    "feed_url": "http://recycledby.org/feed.json",
     "user_comment": "",
     "author": {
         "name": "recycledby"
     },
     "items": [
         {
-            "id": "https://mattdwnr.github.io/recycledby/why-we-need-to-recycle.html",
-            "url": "https://mattdwnr.github.io/recycledby/why-we-need-to-recycle.html",
+            "id": "http://recycledby.org/why-we-need-to-recycle.html",
+            "url": "http://recycledby.org/why-we-need-to-recycle.html",
             "title": "Why we need to recycle",
             "summary": "<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">The fashion industry is ranked 4th in the world for environmental impact (behind housing, transport and food)</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Around £140 million with of used but still wearable clothing goes to landfill in the UK every year</span></span>",
             "content_html": "<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">The fashion industry is ranked 4th in the world for environmental impact (behind housing, transport and food)</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Around £140 million with of used but still wearable clothing goes to landfill in the UK every year</span></span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">More than 60% of households in the UK say they have unwanted clothes and textile stored in their homes</span></span></li>\n<li><span style=\"font-weight: 400;\">This is 30% of our unwanted clothing going to landfill</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">It is expected that by 2030, the fashion industry will use 35% more land for cotton and forest for cellulosic fibres</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">In the last 15 years clothing production has roughly doubled</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">In the UK, clothing lasts for an average of 3.3 years before it is discarded or passed on</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">UK adults only wear 44% of the clothing they own</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">It is estimated that the average garment is worn only 10 times before disposal</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Less than 1% of all materials in clothes are recycled into new garments</span></li>\n</ul>\n<p><i><span style=\"font-weight: 400;\">Sources: </span></i><a href=\"https://traid.org.uk/wp-content/uploads/2018/09/impacts_of_clothing_factsheet_23percent.pdf\"><i><span style=\"font-weight: 400;\">https://traid.org.uk/wp-content/uploads/2018/09/impacts_of_clothing_factsheet_23percent.pdf</span></i></a></p>\n<p><a href=\"https://fashionunited.uk/news/fashion/uk-s-secondhand-market-skyrocket-in-2020/2020090250676\"><i><span style=\"font-weight: 400;\">https://fashionunited.uk/news/fashion/uk-s-secondhand-market-skyrocket-in-2020/2020090250676</span></i></a></p>",
-            "image": "https://mattdwnr.github.io/recycledby/media/posts/9/pexels-tom-fisk-3174350-1-1.jpg",
+            "image": "http://recycledby.org/media/posts/9/pexels-tom-fisk-3174350-1-1.jpg",
             "author": {
                 "name": "recycledby"
             },
@@ -25,12 +25,12 @@
             "date_modified": "2021-04-18T21:13:23+01:00"
         },
         {
-            "id": "https://mattdwnr.github.io/recycledby/what-does-the-logo-do.html",
-            "url": "https://mattdwnr.github.io/recycledby/what-does-the-logo-do.html",
+            "id": "http://recycledby.org/what-does-the-logo-do.html",
+            "url": "http://recycledby.org/what-does-the-logo-do.html",
             "title": "What does the logo do?",
             "summary": "<p><span style=\"font-weight: 400;\">The </span><i><span style=\"font-weight: 400;\">Recycled by </span></i><span style=\"font-weight: 400;\">logo illustrates quality on second hand textiles, it adds value to your products and ensures that customers know your products are of a high standard. </span><i><span style=\"font-weight: 400;\">Recycled by </span></i><span style=\"font-weight: 400;\">represents being part of a wider network of businesses aiming to be more sustainable, creating trust in your brand and showing your efforts to be involved in the sustainable economy.</span></p>\n",
             "content_html": "<p><span style=\"font-weight: 400;\">The </span><i><span style=\"font-weight: 400;\">Recycled by </span></i><span style=\"font-weight: 400;\">logo illustrates quality on second hand textiles, it adds value to your products and ensures that customers know your products are of a high standard. </span><i><span style=\"font-weight: 400;\">Recycled by </span></i><span style=\"font-weight: 400;\">represents being part of a wider network of businesses aiming to be more sustainable, creating trust in your brand and showing your efforts to be involved in the sustainable economy.</span></p>\n\n<p><span style=\"font-weight: 400;\">The </span><i><span style=\"font-weight: 400;\">Recycled by </span></i><span style=\"font-weight: 400;\">logo communicates that you want customers to be proud of wearing and using recycled products. We want to protect use of the </span><i><span style=\"font-weight: 400;\">Recycled by </span></i><span style=\"font-weight: 400;\">logo for high quality initiatives that show recycling is the best option over buying new when it comes to sustainability. We appreciate that consumers are now more supportive than ever of the recycled industry and demand for recycled clothes is increasing. Since 2018, second hand sales have increased by 404% year on year. You can help start a movement with </span><i><span style=\"font-weight: 400;\">Recycled by. </span></i></p>",
-            "image": "https://mattdwnr.github.io/recycledby/media/posts/8/pexels-thomas-cotton-12679-2.jpg",
+            "image": "http://recycledby.org/media/posts/8/pexels-thomas-cotton-12679-2.jpg",
             "author": {
                 "name": "recycledby"
             },
@@ -40,12 +40,12 @@
             "date_modified": "2021-04-18T21:13:53+01:00"
         },
         {
-            "id": "https://mattdwnr.github.io/recycledby/who-we-want-to-work-with-3.html",
-            "url": "https://mattdwnr.github.io/recycledby/who-we-want-to-work-with-3.html",
+            "id": "http://recycledby.org/who-we-want-to-work-with-3.html",
+            "url": "http://recycledby.org/who-we-want-to-work-with-3.html",
             "title": "Who we want to work with",
             "summary": "<p><span style=\"font-weight: 400;\">We want to work with organisations who are starting to think about being involved in the sustainable economy. This could be small independent organisations who feel marginalised or dwarfed by larger scale organisations - we want to help you feel encouraged to begin taking sustainable steps within your business.</span></p>\n",
             "content_html": "<p><span style=\"font-weight: 400;\">We want to work with organisations who are starting to think about being involved in the sustainable economy. This could be small independent organisations who feel marginalised or dwarfed by larger scale organisations - we want to help you feel encouraged to begin taking sustainable steps within your business.</span></p>\n\n<p><span style=\"font-weight: 400;\">Or if you are an organisation that hasn’t joined the sustainable movement yet, </span><i><span style=\"font-weight: 400;\">Recycled by</span></i><span style=\"font-weight: 400;\"> and the network we create will guide you through your ‘green’ actions. We also want to work with you, if you already supply second hand textiles, and want to select your premium stock to receive added value by the </span><i><span style=\"font-weight: 400;\">Recycled by</span></i><span style=\"font-weight: 400;\"> logo. </span></p>",
-            "image": "https://mattdwnr.github.io/recycledby/media/posts/6/pexels-vlada-karpovich-4668362-2.jpg",
+            "image": "http://recycledby.org/media/posts/6/pexels-vlada-karpovich-4668362-2.jpg",
             "author": {
                 "name": "recycledby"
             },
@@ -55,12 +55,12 @@
             "date_modified": "2021-04-18T21:14:44+01:00"
         },
         {
-            "id": "https://mattdwnr.github.io/recycledby/what-is-recycled-by.html",
-            "url": "https://mattdwnr.github.io/recycledby/what-is-recycled-by.html",
+            "id": "http://recycledby.org/what-is-recycled-by.html",
+            "url": "http://recycledby.org/what-is-recycled-by.html",
             "title": "What is Recycled by?",
             "summary": "<p><i><span style=\"font-weight: 400;\">Recycled by</span></i><span style=\"font-weight: 400;\"> wants to spark a textile recycling revolution by using the unique method of adding the ‘Recycled by’ logo to great quality second hand textiles. This logo will ensure high standards of second hand products to encourage the use of recycling textiles and limit environmental damage caused by the textile industry.</span></p>\n",
             "content_html": "<p><i><span style=\"font-weight: 400;\">Recycled by</span></i><span style=\"font-weight: 400;\"> wants to spark a textile recycling revolution by using the unique method of adding the ‘Recycled by’ logo to great quality second hand textiles. This logo will ensure high standards of second hand products to encourage the use of recycling textiles and limit environmental damage caused by the textile industry.</span></p>\n\n<p><i><span style=\"font-weight: 400;\">Recycled by</span></i><span style=\"font-weight: 400;\"> will encourage organisations, businesses and groups to see textile recycling as a movement they are proud to be a part of. The </span><i><span style=\"font-weight: 400;\">Recycled by</span></i><span style=\"font-weight: 400;\"> network will enable businesses to work together to empower and support each other in taking their first steps towards recycling within their organisation. We understand that bringing in sustainable, recycling practices can be a challenge, so </span><i><span style=\"font-weight: 400;\">Recycled by</span></i><span style=\"font-weight: 400;\"> aims to bring organisations together, to mutually support and encourage one another.</span></p>",
-            "image": "https://mattdwnr.github.io/recycledby/media/posts/7/pexels-karolina-grabowska-4210860-1-2.jpg",
+            "image": "http://recycledby.org/media/posts/7/pexels-karolina-grabowska-4210860-1-2.jpg",
             "author": {
                 "name": "recycledby"
             },

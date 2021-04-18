@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://mattdwnr.github.io/recycledby/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://recycledby.org/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://mattdwnr.github.io/recycledby/</loc>
+<loc>http://recycledby.org/</loc>
 </url>
 <url>
-<loc>https://mattdwnr.github.io/recycledby/what-does-the-logo-do.html</loc>
+<loc>http://recycledby.org/what-does-the-logo-do.html</loc>
 <lastmod>2021-04-18T21:13:53+01:00</lastmod>
 <image:image>
-<image:loc>https://mattdwnr.github.io/recycledby/media/posts/8/pexels-thomas-cotton-12679-2.jpg</image:loc>
+<image:loc>http://recycledby.org/media/posts/8/pexels-thomas-cotton-12679-2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://mattdwnr.github.io/recycledby/what-is-recycled-by.html</loc>
+<loc>http://recycledby.org/what-is-recycled-by.html</loc>
 <lastmod>2021-04-18T21:14:12+01:00</lastmod>
 <image:image>
-<image:loc>https://mattdwnr.github.io/recycledby/media/posts/7/pexels-karolina-grabowska-4210860-1-2.jpg</image:loc>
+<image:loc>http://recycledby.org/media/posts/7/pexels-karolina-grabowska-4210860-1-2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://mattdwnr.github.io/recycledby/who-we-want-to-work-with-3.html</loc>
+<loc>http://recycledby.org/who-we-want-to-work-with-3.html</loc>
 <lastmod>2021-04-18T21:14:44+01:00</lastmod>
 <image:image>
-<image:loc>https://mattdwnr.github.io/recycledby/media/posts/6/pexels-vlada-karpovich-4668362-2.jpg</image:loc>
+<image:loc>http://recycledby.org/media/posts/6/pexels-vlada-karpovich-4668362-2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://mattdwnr.github.io/recycledby/why-we-need-to-recycle.html</loc>
+<loc>http://recycledby.org/why-we-need-to-recycle.html</loc>
 <lastmod>2021-04-18T21:13:23+01:00</lastmod>
 <image:image>
-<image:loc>https://mattdwnr.github.io/recycledby/media/posts/9/pexels-tom-fisk-3174350-1-1.jpg</image:loc>
+<image:loc>http://recycledby.org/media/posts/9/pexels-tom-fisk-3174350-1-1.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
